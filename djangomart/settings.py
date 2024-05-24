@@ -147,5 +147,5 @@ EMAIL_HOST_PASSWORD = "mnuk mspq yjib mjgx"
 EMAIL_USE_TLS = True
 
 SSLCOMMERZ_PAYMENT_URL = 'https://sandbox.sslcommerz.com/gwprocess/v4/api.php'  # Update with production URL for live environment
-SSLCOMMERZ_STORE_ID = 'djang659a837345a53'
-SSLCOMMERZ_STORE_PASSWORD = '1234567mm'   #my fav password
+SSLCOMMERZ_STORE_ID = 'hello6631d860853f0'
+SSLCOMMERZ_STORE_PASSWORD = 'Alamin@apple10'   #my fav password

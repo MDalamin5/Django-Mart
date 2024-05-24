@@ -14,6 +14,7 @@ Welcome to our E-Commerce project! This comprehensive web application is built u
 
 ## Features
 
+
 1. **User Authentication:** Email verification is implemented to ensure a secure login system.
 2. **User Dashboard:** Users have access to a personalized dashboard with all necessary functions.
 3. **Product Reviews:** After purchasing a product, users can leave reviews to share their experiences.
